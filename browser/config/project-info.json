@@ -1,0 +1,16 @@
+{
+"date":"",
+"project_name" :"NodeJS", 
+"project_url" :"http://nodejs.org",
+"scm_url":"https://github.com/joyent/node",
+"scm_name":"git://github.com/joyent/node.git",
+"scm_type":"git",
+"its_url":"",
+"its_name":"Tickets",
+"its_type":"",
+"mls_url":"",
+"mls_name":"",
+"mls_type":"",
+"producer":"",
+"blog_url":""
+}
